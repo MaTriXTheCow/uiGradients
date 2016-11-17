@@ -767,5 +767,9 @@
     {
         "name": "Vice City",
         "colors": ["#3494E6", "#EC6EAD"]
+    },
+    {
+        "name": "Chinese Cherry Blossom",
+        "colors": ["#d894ba", "#eeaa85"]
     }
 ]
